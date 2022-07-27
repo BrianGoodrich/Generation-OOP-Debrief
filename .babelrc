@@ -1,0 +1,4 @@
+{
+    "presets": ["@babel/preset-env"]
+}
+//This babel preset will cover transpilation for all ES6 syntax.
